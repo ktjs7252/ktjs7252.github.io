@@ -14,7 +14,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://ktjs7252.github.io/2021-09-26-ABOUT-ME/"
   menu:
     - 자료구조: 
     - 알고리즘 : 
