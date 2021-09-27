@@ -16,8 +16,8 @@ author: Some Person
 navbar-links:
   About Me: "https://ktjs7252.github.io/2021-09-26-ABOUT-ME/"
   menu:
-    - 자료구조: 
-    - 알고리즘 : 
+    - 자료구조: "https://blog.naver.com/ktjs7252"
+    - 알고리즘 : "https://blog.naver.com/ktjs7252"
  
 
 # --- Logo --- #
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ktjs7252@naver.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
