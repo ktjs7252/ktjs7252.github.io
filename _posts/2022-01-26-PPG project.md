@@ -18,12 +18,12 @@ ECG 신호의 R peak가 아래쪽으로 향해있어 반전시키도록 함
 ![제목 없음](https://user-images.githubusercontent.com/78638160/151104826-726e3ea4-015c-4338-9ee8-8f6ea5cabb5c.png)
 
 
+                                                                                              
+
+                                                                               
 
 
-
-
-
-
+                                                              
 
 
 
