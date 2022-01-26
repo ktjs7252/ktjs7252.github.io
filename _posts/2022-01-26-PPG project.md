@@ -17,7 +17,7 @@ ECG 신호의 R peak가 아래쪽으로 향해있어 반전시키도록 함
  
 ![제목 없음](https://user-images.githubusercontent.com/78638160/151104826-726e3ea4-015c-4338-9ee8-8f6ea5cabb5c.png)
 <br/>
-<br/>
+
 <hr/>
 
 # ECG( ElectroCardiogram)란?
@@ -35,7 +35,7 @@ ECG를 실시하기 위해서, 검사자는 전극(피부에 부착되는 작고
 
 
 <br/>
-<br/>
+
 <hr/>
 <hr/>
 
@@ -53,7 +53,7 @@ E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
 따라서 전압 분배를 이용해 GND의 기준점을 0v에서 2.5v로 올려준다.
 
 ![image](https://user-images.githubusercontent.com/78638160/151105017-9af51ccd-39dc-4d15-b934-e59de32e5f1f.png)
-<br/>
+
 <hr/>
 - 필터
 오실로스코프를 통해 신호를 확인하면
@@ -66,7 +66,7 @@ E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
 
 
 <br/>
-<br/>
+
 <hr/>
 <hr/>
 
@@ -86,7 +86,7 @@ E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
 
 
 <br/>
-<br/>
+
 <hr/>
 <hr/>
 
