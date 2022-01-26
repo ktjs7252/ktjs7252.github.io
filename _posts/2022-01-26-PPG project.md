@@ -21,6 +21,13 @@ ECG 신호의 R peak가 아래쪽으로 향해있어 반전시키도록 함
 
 
 
+
+
+
+
+
+
+
 * ECG( ElectroCardiogram)란?
 
 * 심전도
@@ -32,6 +39,15 @@ ECG 신호의 R peak가 아래쪽으로 향해있어 반전시키도록 함
 ECG를 실시하기 위해서, 검사자는 전극(피부에 부착되는 작고 둥근 센서)을 환자의 팔, 다리와 가슴에 올려 놓습니다.
 
 ![image](https://user-images.githubusercontent.com/78638160/151104837-12b2b43a-e4d0-4b21-93d9-eaf8d4e78870.png)
+
+
+
+
+
+
+
+
+
 
 
 *실험원리
@@ -53,6 +69,13 @@ E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
 ![image](https://user-images.githubusercontent.com/78638160/151105024-f297377b-d27c-4256-800a-05212759d58a.png)
 
 
+
+
+
+
+
+
+
 *실험방법
 
 ![image](https://user-images.githubusercontent.com/78638160/151105068-1f273127-555f-46d6-9ada-8ac5fc07c550.png)
@@ -61,6 +84,16 @@ E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
 전압분배한 값을 증폭기의 그라운드에 넣어Vref값을 설정해주고, 반전시켜준다.
 
 ![1](https://user-images.githubusercontent.com/78638160/151105170-d66e5095-55e9-4073-9037-47e7b1ccb31a.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
