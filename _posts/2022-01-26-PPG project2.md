@@ -74,6 +74,7 @@ sensitivity 값을 이용하면 주파수를 정할 수 없어
 <br/><br/>
 <br/>
  # 필터링 방법2
+ 
  시간 축 영역의 신호를 주파수 축 영역으로 바꿔주는 방법
  ![3](https://user-images.githubusercontent.com/78638160/151107719-089a87a7-c8e3-460d-a9ba-de5adaff6e9a.png)
 
@@ -82,9 +83,11 @@ sensitivity 값을 이용하면 주파수를 정할 수 없어
 
 주파수 영역으로 변환해주기 위해 라플라스 변환식을 사용
 
-![image](https://user-images.githubusercontent.com/78638160/151107781-3f40df1a-7611-4e53-bd1b-235c1164c2ac.png)
-![image](https://user-images.githubusercontent.com/78638160/151107789-579ebf1e-75e8-4e37-a7be-92f1aa458ec1.png)
-![image](https://user-images.githubusercontent.com/78638160/151107792-f60b95f4-cd65-4b11-a695-25c9bf45c4a7.png)
+![image](https://user-images.githubusercontent.com/78638160/151108298-109ee51b-f917-4b36-a641-1069dc5062c6.png)
+![image](https://user-images.githubusercontent.com/78638160/151108301-ef9e4e9e-214b-4081-b64e-991c327a2ef2.png)
+![image](https://user-images.githubusercontent.com/78638160/151108306-6de44dc6-2f9d-43c9-9150-207a0ab99517.png)
+
+
 ![image](https://user-images.githubusercontent.com/78638160/151107828-8b51f1c3-e3a2-4767-91a0-2bf69ea10d63.png)
 
 <br/>
