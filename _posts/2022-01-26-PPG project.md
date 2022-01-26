@@ -40,13 +40,17 @@ ECG를 실시하기 위해서, 검사자는 전극(피부에 부착되는 작고
 교류 전압 : -와 +의 전압을 번갈아가는 신호
 예를 들어 신호의 범위가 -5v ~ +5v라고 할 때
 E2kit은 –신호를 표현할 수 없어 –신호는 무시된다.
-따라서 전압 분배를 이용해 GND의 기준점을 0v에서 2.5v로 올려준다.![image](https://user-images.githubusercontent.com/78638160/151105017-9af51ccd-39dc-4d15-b934-e59de32e5f1f.png)
+따라서 전압 분배를 이용해 GND의 기준점을 0v에서 2.5v로 올려준다.
+
+![image](https://user-images.githubusercontent.com/78638160/151105017-9af51ccd-39dc-4d15-b934-e59de32e5f1f.png)
 
 
 - 필터
 오실로스코프를 통해 신호를 확인하면
 노이즈 신호가 많이 나타나고 신호가 반전되어 나와
-원하는 신호를 얻어내기 위해 필터를 사용한다.![image](https://user-images.githubusercontent.com/78638160/151105024-f297377b-d27c-4256-800a-05212759d58a.png)
+원하는 신호를 얻어내기 위해 필터를 사용한다.
+
+![image](https://user-images.githubusercontent.com/78638160/151105024-f297377b-d27c-4256-800a-05212759d58a.png)
 
 
 *실험방법
