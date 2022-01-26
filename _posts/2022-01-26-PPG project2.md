@@ -86,12 +86,9 @@ sensitivity 값을 이용하면 주파수를 정할 수 없어
 ![image](https://user-images.githubusercontent.com/78638160/151108298-109ee51b-f917-4b36-a641-1069dc5062c6.png)
 ![image](https://user-images.githubusercontent.com/78638160/151108301-ef9e4e9e-214b-4081-b64e-991c327a2ef2.png)
 ![image](https://user-images.githubusercontent.com/78638160/151108306-6de44dc6-2f9d-43c9-9150-207a0ab99517.png)
-
-위의 공식을 코드로 구현한것
-
 ![image](https://user-images.githubusercontent.com/78638160/151107828-8b51f1c3-e3a2-4767-91a0-2bf69ea10d63.png)
-
 <br/>
+* 위의공식을 코드로 구현
 ![image](https://user-images.githubusercontent.com/78638160/151107816-57864546-60b6-42fa-8e3b-9d8dab524350.png)
 
 
