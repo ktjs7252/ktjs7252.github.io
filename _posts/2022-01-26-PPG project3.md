@@ -1,6 +1,6 @@
 ---
 layout : post
-title: 3. LPF와 FFT를 이용한 생체신호 측정(아두이노 개선)
+title: 3. zLPF와 FFT를 이용한 생체신호 측정(아두이노 개선)
 ---
 
 
